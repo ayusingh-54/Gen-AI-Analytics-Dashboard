@@ -1,6 +1,6 @@
 # Gen AI Analytics Dashboard
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Gen+AI+Analytics+Dashboard)
+![Dashboard Screenshot](./frontend/public/assets/dashboard-screenshot.png)
 
 ## 📊 Project Overview
 
